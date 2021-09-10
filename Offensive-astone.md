@@ -7,7 +7,7 @@
 
 ### Exposed Services
 
-![nmapsvos](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/nmap-sv-os-110.png)
+![nmapsvos](https://github.com/iastoneCO/Final-Project/blob/93cd4e2d67f8a5769c9543e4f8ace71df13504d0/Images/nmap-sv-os-110.png)
 
 Nmap scan results for each machine reveal the below services and OS details:  
 
@@ -32,7 +32,7 @@ $ nmap -sV -O 192.168.1.110
   - Run hydra and found michael's password. His      password is vulnerabilities. His password is incredibly weak same his username. 
   *** He would be a password with a minim of 8 characters, including uppercase, lowercase and special characters.
 
-    ![michael-password](Images/michael-password.png)
+    ![michael-password](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/michael-password.png)
 
    -- python  (user steven to run python with sudo.)
    -- Database mysql wp_config.php
@@ -58,7 +58,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
          - grep -ER flag1  
          - `flag1.txt`: flag1{b9bbcb33e11b80be759c4e844862482d}
          
-      ![flag1](Images/grep-found-flag1.png)     
+      ![flag1](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/grep-found-flag1.png)     
 
   -----Flag2 
    - **Exploit Used**
@@ -67,7 +67,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
           - cat flag2.txt
           - `flag2.txt`: flag2{fc3fd58dcdad9ab23faca6e9a36e581c}
  
-      ![flag2](Images/cat-flag2.txt.png)
+      ![flag2](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/cat-flag2.txt.png)
 
   -----Flag3
    - **Exploit Used**
@@ -82,10 +82,10 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
          - flag3{afc01ab56b50591e7dccf93122770cd2}
          - found wp_users michael and steven included hash.
 
-      ![flag3](Images/flag3-from-wp_posts.png)
+      ![flag3](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/flag3-from-wp_posts.png)
 
 
-      ![hash](Images/show-select-wp_users_hash-wordpress.png)  
+      ![hash](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/show-select-wp_users_hash-wordpress.png)  
 
 
   -----Flag4
@@ -99,4 +99,4 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
         - cat flag4.txt
         flag4{715dea6c055b9fe3337544932f2941ce}
 
-    ![tables-wp_posts](Images/raven-steven-found-cat-flag4-file.png)  
+    ![tables-wp_posts](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/raven-steven-found-cat-flag4-file.png)  
