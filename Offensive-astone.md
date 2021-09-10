@@ -99,4 +99,4 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
         - cat flag4.txt
         flag4{715dea6c055b9fe3337544932f2941ce}
 
-    ![tables-wp_posts](https://github.com/iastoneCO/Final-Project/blob/22e32e8015f891588285887560c5ead6927187f2/Images/raven-steven-found-cat-flag4-file.png)  
+    ![tables-wp_posts](https://github.com/iastoneCO/Final-Project/blob/6755c9e686222fefdf8dce51d59fefa13e2996b7/Images/raven-steven-found-cat-flag4-file.png)  
