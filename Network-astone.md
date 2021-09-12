@@ -37,7 +37,7 @@ You must inspect your traffic capture to answer the following questions:
 
 4. As a bonus, retrieve the desktop background of the Windows host.
 
-    - ![Desktop-Bkg?](https://github.com/iastoneCO/Final-Project/blob/4ca75c74d3cd146801c8972626649b82f36e809b/Images/empty.gif%253fss&ss1img.jpg)
+    - ![Desktop-Bkg?](https://github.com/iastoneCO/Final-Project/blob/4ca75c74d3cd146801c8972626649b82f36e809b/Images/sm-empty.gif%3fss&ss1img.jpg)
 ---
 
 ## Illegal Downloads
